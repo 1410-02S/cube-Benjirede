@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Relatively complete, could obviously use some more additions but pretty far along in the grand sceheme of things.
+
 public class Cube {
 
     public static void inputf(String [][][] Rcube) {
